@@ -1,3 +1,4 @@
+不错的iOS状态机
 TransitionKit
 =============
 
